@@ -1,48 +1,69 @@
 ---
 home: true
-layout: BlogHome
+# layout: BlogHome
 icon: home
-title: 博客主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
-heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
-projects:
-  - icon: project
-    name: 项目名称
-    desc: 项目详细描述
-    link: https://你的项目链接
+title: 主页
+# hero: false # 是否显示主页的图标与描述。
+heroImage: .vuepress/public/logo.svg 
+# bgImage: " "
+# bgImage: https://iconfont.alicdn.com/p/illus_3d/file/kc08XlIphbdV/9fcd1e78-6106-40ee-94b3-a798ca097c13.png
+# heroText: " "
+# tagline: 千里之行，始于足下
+heroFullScreen: false
 
-  - icon: link
-    name: 链接名称
-    desc: 链接详细描述
-    link: https://链接地址
 
-  - icon: book
-    name: 书籍名称
-    desc: 书籍详细描述
-    link: https://你的书籍链接
+features:
+  - title: 关于网站
+    details: 
+  - title: 来点鸡汤
+    details: Enjoy the dev experience of Vue, use Vue components in markdown, and develop custom themes with Vue.
+  - title: 永远的神-灵茶山艾府
+    details: 经常刷leetcode的同学们应该知道，他的主页也有一些题单推荐，如果对刷题计划迷茫的可以跟着他的题单刷题。
+  - title: 永远的神-JavaGuide
+    details: 这个网站总结了一些关于Java学习和面试指南，由数百位业内大佬共同参与和维护的，是一个不错的查漏补缺的网站。
 
-  - icon: article
-    name: 文章名称
-    desc: 文章详细描述
-    link: https://你的文章链接
 
-  - icon: friend
-    name: 伙伴名称
-    desc: 伙伴详细介绍
-    link: https://你的伙伴链接
 
-  - icon: https://theme-hope-assets.vuejs.press/logo.svg
-    name: 自定义项目
-    desc: 自定义详细介绍
-    link: https://你的自定义链接
+# projects:
+#   - icon: project
+#     name: 暂未生效
+#     # desc: 项目详细描述
+#     # link: https://你的项目链接
 
-footer: 自定义你的页脚文字
+#   - icon: link
+#     name: 暂未生效
+#     # desc: 项目详细描述
+#     # link: https://链接地址
+
+#   - icon: book
+#     name: 暂未生效
+#     # desc: 项目详细描述
+#     # link: https://你的书籍链接
+
+#   - icon: article
+#     name: 暂未生效
+#     # desc: 项目详细描述
+#     # link: https://你的文章链接
+
+#   - icon: friend
+#     name: 暂未生效
+#     # desc: 项目详细描述
+#     # link: https://你的伙伴链接
+
+#   - icon: .vuepress/public/logo.svg
+#     name: 暂未生效
+#     # desc: 项目详细描述
+#     # link: https://你的自定义链接
+
+    
+  
+
+footer: <a href="https://beian.miit.gov.cn/#/Integrated/index">豫ICP备2024079032号-1 | </a> <a href="https://vuepress-theme-hope.github.io/v2/zh/">博客主题：VuePress Theme Hope</a> 
+
 ---
 
-这是一个博客主页的案例。
+<!-- 这是一个博客主页的案例。
 
 要使用此布局，你应该在页面前端设置 `layout: BlogHome` 和 `home: true`。
 
-相关配置文档请见 [博客主页](https://theme-hope.vuejs.press/zh/guide/blog/home.html)。
+相关配置文档请见 [博客主页](https://theme-hope.vuejs.press/zh/guide/blog/home.html)。 -->
