@@ -16,7 +16,7 @@ features:
   - title: 关于网站
     details: 
   - title: 来点鸡汤
-    details: Enjoy the dev experience of Vue, use Vue components in markdown, and develop custom themes with Vue.
+    details: 鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤
   - title: 永远的神-灵茶山艾府
     details: 经常刷leetcode的同学们应该知道，他的主页也有一些题单推荐，如果对刷题计划迷茫的可以跟着他的题单刷题。
   - title: 永远的神-JavaGuide
