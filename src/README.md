@@ -3,8 +3,8 @@ home: true
 # layout: BlogHome
 icon: home
 title: 主页
-# hero: false # 是否显示主页的图标与描述。
-heroImage: .vuepress/public/logo.svg
+hero: true # 是否显示主页的图标与描述。
+heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 # bgImage: " "
 # bgImage: https://iconfont.alicdn.com/p/illus_3d/file/kc08XlIphbdV/9fcd1e78-6106-40ee-94b3-a798ca097c13.png
 # heroText: " "
@@ -14,9 +14,9 @@ heroFullScreen: false
 
 features:
   - title: 关于网站
-    details: 
+    details: 网站暂时是作为记录使用
   - title: 来点鸡汤
-    details: 鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤鸡汤
+    details: 一碗鸡汤，两碗鸡汤，三碗鸡汤
   - title: 永远的神-灵茶山艾府
     details: 经常刷leetcode的同学们应该知道，他的主页也有一些题单推荐，如果对刷题计划迷茫的可以跟着他的题单刷题。
   - title: 永远的神-JavaGuide
