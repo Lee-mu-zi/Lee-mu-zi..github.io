@@ -3,6 +3,7 @@ title: 疫情中的大学
 index: false
 # icon: user
 cover: /assets/covers/image.png
+date: 2022-01-09
 category:
   - 作者
   - 自我介绍
