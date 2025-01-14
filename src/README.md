@@ -4,7 +4,7 @@ home: true
 icon: home
 title: 主页
 hero: true # 是否显示主页的图标与描述。
-heroImage: .vuepress/public/logo.svg
+heroImage: /logo.svg
 # bgImage: " "
 # bgImage: https://iconfont.alicdn.com/p/illus_3d/file/kc08XlIphbdV/9fcd1e78-6106-40ee-94b3-a798ca097c13.png
 # heroText: " "
