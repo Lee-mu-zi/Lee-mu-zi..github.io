@@ -3,7 +3,7 @@ import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
   "/": [
-    // "",
+    "",
     // {
     //   text: "如何使用",
     //   icon: "laptop-code",
@@ -29,6 +29,14 @@ export default sidebar({
 
   "/readnote/": "structure",
 
-  "/author/": "structure",
+  "/author/": [
+    {
+      text: "计划安排",
+      icon: "/assets/author/plan.svg",
+      prefix: "plan/",
+      children: "structure",
+    },
+  ],
+
 
 });

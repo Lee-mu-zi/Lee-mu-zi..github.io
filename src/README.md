@@ -14,9 +14,7 @@ heroFullScreen: false
 
 features:
   - title: 关于网站
-    details: 网站暂时是作为记录使用
-  - title: 来点鸡汤
-    details: 一碗鸡汤，两碗鸡汤，三碗鸡汤
+    details: 网站暂时是作为记录使用，内容慢慢会丰富起来
   - title: 永远的神-灵茶山艾府
     details: 经常刷leetcode的同学们应该知道，他的主页也有一些题单推荐，如果对刷题计划迷茫的可以跟着他的题单刷题。
   - title: 永远的神-JavaGuide

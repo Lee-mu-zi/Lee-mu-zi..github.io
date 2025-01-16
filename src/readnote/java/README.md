@@ -1,9 +1,11 @@
 ---
-title: 测试标题
-index: true
-icon: laptop-code
+title: Java核心技术
+index: false
+icon: /assets/readnote/javaico.svg
 category:
-  - 使用指南
+  - Java
+  - Java核心技术
+  - 读书笔记
 ---
 
 <Catalog />
