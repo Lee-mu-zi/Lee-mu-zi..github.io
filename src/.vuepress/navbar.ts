@@ -6,19 +6,19 @@ export default navbar([
   "/",
 
   {
-    text: '读书吧',
+    text: '读书分享',
     icon: 'book',
     link: '/readnote/',
   },
 
   {
-    text: '刷题吧',
-    icon: 'book',
-    link: '/leetcode/',
+    text: '算法记录',
+    icon: '/assets/algorithm/algorithm.svg',
+    link: '/algorithm/',
   },
 
   {
-    text: "作者吧",
+    text: "记录自己",
     icon: "user",
     link: "author/",
   },

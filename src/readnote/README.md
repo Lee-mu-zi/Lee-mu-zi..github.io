@@ -1,5 +1,5 @@
 ---
-title: 读书吧
+title: 读书分享
 index: false
 icon: book
 category:

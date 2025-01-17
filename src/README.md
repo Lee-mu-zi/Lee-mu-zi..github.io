@@ -2,7 +2,7 @@
 home: true
 # layout: BlogHome
 icon: home
-title: 主页
+title: 博客主页
 hero: true # 是否显示主页的图标与描述。
 heroImage: /logo.svg
 # bgImage: " "
@@ -14,7 +14,7 @@ heroFullScreen: false
 
 features:
   - title: 关于网站
-    details: 网站暂时是作为记录使用，内容慢慢会丰富起来
+    details: 网站暂时不多，还在慢慢整理
   - title: 永远的神-灵茶山艾府
     details: 经常刷leetcode的同学们应该知道，他的主页也有一些题单推荐，如果对刷题计划迷茫的可以跟着他的题单刷题。
   - title: 永远的神-JavaGuide

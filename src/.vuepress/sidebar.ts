@@ -25,7 +25,7 @@ export default sidebar({
     // },
   ],
 
-  "/leetcode/": "structure",
+  "/algorithm/": "structure",
 
   "/readnote/": "structure",
 
