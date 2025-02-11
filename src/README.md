@@ -14,11 +14,11 @@ heroFullScreen: false
 
 features:
   - title: 关于网站
-    details: 网站暂时不多，还在慢慢整理
-  - title: 永远的神-灵茶山艾府
-    details: 经常刷leetcode的同学们应该知道，他的主页也有一些题单推荐，如果对刷题计划迷茫的可以跟着他的题单刷题。
-  - title: 永远的神-JavaGuide
-    details: 这个网站总结了一些关于Java学习和面试指南，由数百位业内大佬共同参与和维护的，是一个不错的查漏补缺的网站。
+    details: 一些都会好起来的
+  # - title: 永远的神-灵茶山艾府
+  #   details: 经常刷leetcode的同学们应该知道，他的主页也有一些题单推荐，如果对刷题计划迷茫的可以跟着他的题单刷题。
+  # - title: 永远的神-JavaGuide
+  #   details: 这个网站总结了一些关于Java学习和面试指南，由数百位业内大佬共同参与和维护的，是一个不错的查漏补缺的网站。
 
 
 
